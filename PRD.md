@@ -70,7 +70,7 @@ ps：资金投入、技术投入要求较低，操作可行性强
 AI产品：人脸检测与属性分析
 * http方法：post
 * url接口：https://aip.baidubce.com/rest/2.0/face/v2/detect
-# encoding:utf-8
+encoding:utf-8
  --- 
 功能：餐桌匹配
 服务平台：百度AI
@@ -83,7 +83,7 @@ AI产品：人脸搜索
 AI产品：人脸对比
 * http方法：post
 * url接口：https://aip.baidubce.com/rest/2.0/face/v2/match
-# encoding:utf-8
+encoding:utf-8
 
 
 ### 问题 Questions: 
