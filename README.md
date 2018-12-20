@@ -52,11 +52,14 @@ ps：资金投入、技术投入要求较低，操作可行性强
 ### 使用者交互及设计: 
 #### 操作流程
 [![操作流程.png](https://i.loli.net/2018/12/09/5c0c811c0bf53.png)](https://i.loli.net/2018/12/09/5c0c811c0bf53.png)
-#### 功能结构图
+#### 产品使用流程图
+!产品使用流程图.jpg](https://i.loli.net/2018/12/20/5c1b7353885e6.jpg)
+#### 产品框架图
 [![功能结构图.png](https://i.loli.net/2018/12/09/5c0c8b326c7c7.png)](https://i.loli.net/2018/12/09/5c0c8b326c7c7.png)
 #### axure原型
 [![心情点餐](https://i.loli.net/2018/12/09/5c0c63f22795d.png)](https://i.loli.net/2018/12/09/5c0c63f22795d.png)
 [![拼桌匹配](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)
+![微信图片_20181220180458.png](https://i.loli.net/2018/12/20/5c1b6accce777.png)
 ***
 ### API展示
 功能：心情点餐
@@ -78,8 +81,7 @@ AI产品：人脸对比
 * http方法：post
 * url接口：https://aip.baidubce.com/rest/2.0/face/v2/match
 encoding:utf-8
-***
-
+**API CHA
 
 
 
