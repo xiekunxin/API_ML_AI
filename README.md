@@ -82,7 +82,7 @@ AI产品：人脸对比
 * http方法：post
 * url接口：https://aip.baidubce.com/rest/2.0/face/v2/match
 encoding:utf-8
-**API CHA
+*** 
 ### API产品使用对比
 在目前API人脸识别产品市场中，根据产品开发成熟程度并各综合各人工智能类人脸识别产品的下载量、知名度、竞争力等情况考虑，选出竞品为“百度AI”和“face+++”。将“EyeKey网站”以及“虹软技术”列为次级竞品作适当分析   
 * 竞品对比明细：![微信图片_20181220200001.png](https://i.loli.net/2018/12/20/5c1b8468f2c66.png)  
