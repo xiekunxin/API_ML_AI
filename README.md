@@ -74,8 +74,7 @@ ps：资金投入、技术投入要求较低，操作可行性强
 功能：餐桌匹配
 服务平台：百度AI
 AI产品：人脸搜索
-* http方法：post
-* url接口： https://aip.baidubce.com/rest/2.0/face/v2/identify
+![2019-01-05_182404.png](https://i.loli.net/2019/01/05/5c309e75c2638.png)y
  --- 
 *** 
 ### API产品使用对比
