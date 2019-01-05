@@ -33,9 +33,14 @@
 #### 操作流程
 [![操作流程.png](https://i.loli.net/2018/12/09/5c0c811c0bf53.png)](https://i.loli.net/2018/12/09/5c0c811c0bf53.png)
 #### 产品使用流程图
-![未命名文件.jpg](https://i.loli.net/2018/12/20/5c1b7353885e6.jpg)
+![产品使用流程图.png](https://i.loli.net/2019/01/05/5c30c6c0a5314.png)
+异常流程 Exception Flows
+* 无法登陆用户页面/用户页面登陆延时
+* 拼桌交友匹配弹回错误
+* 付款失败/付款延时
+解决方案 Solution：参考链接
 #### 产品框架图
-[![功能结构图.png](https://i.loli.net/2018/12/09/5c0c8b326c7c7.png)](https://i.loli.net/2018/12/09/5c0c8b326c7c7.png)
+
 #### axure原型
 [![拼桌匹配](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)
 ![微信图片_20181220180458.png](https://i.loli.net/2018/12/20/5c1b6accce777.png)
