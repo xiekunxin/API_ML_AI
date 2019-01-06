@@ -42,9 +42,9 @@
 #### 产品功能框架图
 ![产品功能框架图.png](https://i.loli.net/2019/01/05/5c30cf4e87668.png)
 #### axure原型
+![Axure原型1.png](https://i.loli.net/2019/01/06/5c316a7f2fa16.png)
 [![拼桌匹配](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)](https://i.loli.net/2018/12/09/5c0c63f23d3a2.png)
-![微信图片_20181220180458.png](https://i.loli.net/2018/12/20/5c1b6accce777.png)
-***
+
 ### API展示
 关于API测试（web demo）
 使用7组做对比，其中男女比例为5:2，于数据库输入俯拍，仰拍，正脸照，以及搞怪的表情做数据库，
